@@ -1,4 +1,4 @@
-FROM php:7.1
+FROM ubuntu:18.04
 
 MAINTAINER "Tien Vo" <tienvv.it@gmail.com>
 
